@@ -1,0 +1,54 @@
+body{
+    background-color:#ac5656; 
+    margin: 0;
+}
+
+
+
+header{
+    background-color: rgb(52, 122, 46);
+    text-align: center;
+    
+
+    h1{
+        color: whitesmoke;
+        display: inline-block;
+        margin: 20px;
+    }
+    
+}
+
+
+
+div{
+    background-color: rgba(255, 251, 1, 0.562);
+    margin-top: 80px;
+    text-align: center;
+    height: 400px;
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 40px;
+
+    img{
+        object-fit: cover;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        object-position: top;
+        margin-top: 25px;
+    }
+    
+    h1, p{
+        color: blue;
+    }
+
+    button{
+        background-color: rgb(0, 0, 0);
+        color: white;
+        border-radius: 10px;
+    }
+    
+    
+}
+
